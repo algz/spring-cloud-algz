@@ -3,4 +3,5 @@
   <groupId>com.algz.cloud</groupId>
   <artifactId>spring-cloud-algz</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
 </project>
